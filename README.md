@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Drag and Drop Todo React App (Kanban Board)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with the idea of Kanban Board with the use of react-dnd library.
 
 ## Available Scripts
 
